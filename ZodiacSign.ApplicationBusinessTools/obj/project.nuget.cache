@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PK3OtXUIAY6ZQ2BvNzP5lf3tnDgAwsoxJ5P/vcxS8vQtCXjIzXsS1t7unDZ2cC+jKMg/43nV4ZzQ7YFSaAH8/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ApplicationBusinessTools\\ZodiacSign.ApplicationBusinessTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

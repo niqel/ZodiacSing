@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UzjJXj0s//gE37ZtCl3XUaHyQOV1SjokbDcVFIB0raO7xn+92r2gDMHFaDQPHT4T2ZsFLP9b4sZnEPrIG4zedA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

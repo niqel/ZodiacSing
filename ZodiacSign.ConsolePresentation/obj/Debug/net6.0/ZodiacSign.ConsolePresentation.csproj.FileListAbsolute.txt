@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.ConsolePresentation.deps.json
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.ConsolePresentation.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.ConsolePresentation.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.AppBusiness.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.AppBusiness.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\bin\Debug\net6.0\ZodiacSign.Domain.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.AssemblyInfo.cs
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.csproj.CopyComplete
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\refint\ZodiacSign.ConsolePresentation.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ZodiacSign.ConsolePresentation.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.ConsolePresentation\obj\Debug\net6.0\ref\ZodiacSign.ConsolePresentation.dll

@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Persistence.deps.json
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Persistence.runtimeconfig.json
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Persistence.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Persistence.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\bin\Debug\net6.0\ZodiacSign.Domain.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.AssemblyInfo.cs
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.csproj.CopyComplete
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\refint\ZodiacSign.Persistence.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ZodiacSign.Persistence.genruntimeconfig.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Persistence\obj\Debug\net6.0\ref\ZodiacSign.Persistence.dll

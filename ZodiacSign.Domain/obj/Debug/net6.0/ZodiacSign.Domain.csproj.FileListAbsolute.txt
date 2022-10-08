@@ -1,0 +1,12 @@
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\bin\Debug\net6.0\ZodiacSign.Domain.deps.json
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\bin\Debug\net6.0\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\bin\Debug\net6.0\ZodiacSign.Domain.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.AssemblyInfo.cs
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\refint\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ZodiacSign.Domain.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.Domain\obj\Debug\net6.0\ref\ZodiacSign.Domain.dll

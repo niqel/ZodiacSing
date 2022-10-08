@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.- Enterprice Business Rules", "0.- Enterprice Business Rules", "{938F598C-2475-4252-95AC-441E99950CCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.- Infrastructure", "3.- Infrastructure", "{B38010FF-977D-49EB-B46A-3EE5EBB3A266}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.- Interface Adapters", "2.- Interface Adapters", "{BD88A586-09EA-454F-A797-4452FCA74C8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.- Presentation", "4.- Presentation", "{AD087634-F583-460C-A408-B5BA216385F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.Domain", "ZodiacSign.Domain\ZodiacSign.Domain.csproj", "{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.IoC", "ZodiacSign.IoC\ZodiacSign.IoC.csproj", "{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.Persistence", "ZodiacSign.Persistence\ZodiacSign.Persistence.csproj", "{28C9573E-BF62-4102-802E-4CBBCF45138B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.ConsoleApp", "ZodiacSign.ConsoleApp\ZodiacSign.ConsoleApp.csproj", "{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.- Application Business Tools", "1.- Application Business Tools", "{286846EE-C80C-4396-843B-3559EE323A87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.AppBusiness", "ZodiacSign.AppBusiness\ZodiacSign.AppBusiness.csproj", "{889D107F-39E8-4A66-8EDD-9AD28284B6A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.AppBusinessImplementations", "ZodiacSign.AppBusinessImplementations\ZodiacSign.AppBusinessImplementations.csproj", "{9A99034E-670A-4FE8-A3A9-130A274580DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZodiacSign.ConsolePresentation", "ZodiacSign.ConsolePresentation\ZodiacSign.ConsolePresentation.csproj", "{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZodiacSign.ApplicationBusinessTools", "ZodiacSign.ApplicationBusinessTools\ZodiacSign.ApplicationBusinessTools.csproj", "{4B802413-04E7-4FC3-9F37-4A3C95ACD980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZodiacSign.InterfaceAdapters", "ZodiacSign.InterfaceAdapters\ZodiacSign.InterfaceAdapters.csproj", "{00AE6898-899E-45C8-A8CB-5E182D69D177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C9573E-BF62-4102-802E-4CBBCF45138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C9573E-BF62-4102-802E-4CBBCF45138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C9573E-BF62-4102-802E-4CBBCF45138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C9573E-BF62-4102-802E-4CBBCF45138B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889D107F-39E8-4A66-8EDD-9AD28284B6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889D107F-39E8-4A66-8EDD-9AD28284B6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889D107F-39E8-4A66-8EDD-9AD28284B6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889D107F-39E8-4A66-8EDD-9AD28284B6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A99034E-670A-4FE8-A3A9-130A274580DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A99034E-670A-4FE8-A3A9-130A274580DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A99034E-670A-4FE8-A3A9-130A274580DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A99034E-670A-4FE8-A3A9-130A274580DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B802413-04E7-4FC3-9F37-4A3C95ACD980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B802413-04E7-4FC3-9F37-4A3C95ACD980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B802413-04E7-4FC3-9F37-4A3C95ACD980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B802413-04E7-4FC3-9F37-4A3C95ACD980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AE6898-899E-45C8-A8CB-5E182D69D177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AE6898-899E-45C8-A8CB-5E182D69D177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AE6898-899E-45C8-A8CB-5E182D69D177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AE6898-899E-45C8-A8CB-5E182D69D177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5411E19-0C7F-4DB8-9F47-9FB414BEC46E} = {938F598C-2475-4252-95AC-441E99950CCD}
+		{E58EEC0D-C3FD-4BF1-9C35-1EC81D660D44} = {BD88A586-09EA-454F-A797-4452FCA74C8B}
+		{28C9573E-BF62-4102-802E-4CBBCF45138B} = {B38010FF-977D-49EB-B46A-3EE5EBB3A266}
+		{AF942BAC-4EBA-4434-9079-A1B4A90BF7CD} = {AD087634-F583-460C-A408-B5BA216385F6}
+		{889D107F-39E8-4A66-8EDD-9AD28284B6A6} = {286846EE-C80C-4396-843B-3559EE323A87}
+		{9A99034E-670A-4FE8-A3A9-130A274580DE} = {286846EE-C80C-4396-843B-3559EE323A87}
+		{3BA25F93-9D6F-479B-9E3D-D67C93E4D46E} = {BD88A586-09EA-454F-A797-4452FCA74C8B}
+		{4B802413-04E7-4FC3-9F37-4A3C95ACD980} = {286846EE-C80C-4396-843B-3559EE323A87}
+		{00AE6898-899E-45C8-A8CB-5E182D69D177} = {BD88A586-09EA-454F-A797-4452FCA74C8B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BBE3A55-0B27-4C8C-A27F-7C58CBD97CDD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,438 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.IoC\\ZodiacSign.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj",
+        "projectName": "ZodiacSign.AppBusinessImplementations",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj",
+        "projectName": "ZodiacSign.AppBusiness",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\ZodiacSign.ConsolePresentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\ZodiacSign.ConsolePresentation.csproj",
+        "projectName": "ZodiacSign.ConsolePresentation",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\ZodiacSign.ConsolePresentation.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusiness\\ZodiacSign.AppBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj",
+        "projectName": "ZodiacSign.Domain",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.IoC\\ZodiacSign.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.IoC\\ZodiacSign.IoC.csproj",
+        "projectName": "ZodiacSign.IoC",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.IoC\\ZodiacSign.IoC.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.AppBusinessImplementations\\ZodiacSign.AppBusinessImplementations.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\ZodiacSign.ConsolePresentation.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.ConsolePresentation\\ZodiacSign.ConsolePresentation.csproj"
+              },
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\ZodiacSign.Persistence.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\ZodiacSign.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\ZodiacSign.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\ZodiacSign.Persistence.csproj",
+        "projectName": "ZodiacSign.Persistence",
+        "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\ZodiacSign.Persistence.csproj",
+        "packagesPath": "C:\\Users\\niqel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\niqel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj": {
+                "projectPath": "C:\\Users\\niqel\\source\\repos\\Proyects\\ZodiacSign\\ZodiacSign.Domain\\ZodiacSign.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

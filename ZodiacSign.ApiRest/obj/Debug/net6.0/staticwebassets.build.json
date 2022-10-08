@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aELUhY1IB4ZkMOAJq3cxYHStvxgKN3Hv2wzbGOv72mc=",
+  "Source": "ZodiacSign.ApiRest",
+  "BasePath": "_content/ZodiacSign.ApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

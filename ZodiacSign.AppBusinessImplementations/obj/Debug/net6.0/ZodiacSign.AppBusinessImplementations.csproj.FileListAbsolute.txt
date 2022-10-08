@@ -1,0 +1,17 @@
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.AppBusinessImplementations.deps.json
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.AppBusinessImplementations.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.AppBusinessImplementations.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.AppBusiness.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.Domain.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.AppBusiness.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\bin\Debug\net6.0\ZodiacSign.Domain.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.csproj.AssemblyReference.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.AssemblyInfoInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.AssemblyInfo.cs
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.csproj.CoreCompileInputs.cache
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.csproj.CopyComplete
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\refint\ZodiacSign.AppBusinessImplementations.dll
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ZodiacSign.AppBusinessImplementations.pdb
+C:\Users\niqel\source\repos\Proyects\ZodiacSign\ZodiacSign.AppBusinessImplementations\obj\Debug\net6.0\ref\ZodiacSign.AppBusinessImplementations.dll
